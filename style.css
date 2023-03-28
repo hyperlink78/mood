@@ -493,11 +493,6 @@ p {
     opacity: 1;
 }
 
-.get-start-area .email:focus {
-    border: none;
-    outline-offset: transparent !important;
-    border-radius: 30px;
-}
 
 .get-start-area .submit {
     background-color: #fb397d;
@@ -598,7 +593,6 @@ p {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-preferred-size: 1;
-    flex-basis: 1;
     margin-top: 50px;
 }
 
